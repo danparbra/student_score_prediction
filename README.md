@@ -4,4 +4,4 @@ This project showcases a machine learning prediction solution implementing CI/CD
 
 ## Demo
 
-![Demo Image](./src/demo.png)
+![Demo Image](./src/demo.PNG)
